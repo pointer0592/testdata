@@ -1,0 +1,12 @@
+﻿username,first_name,last_name,email,password,is_active,is_staff,is_superuser
+bchamberland,Ben,Chamberland,ben.chamberland@goquant.io,admin,true,true,false
+jcarreno,Jennifer,Carreno,jennifer.carreno@goquant.io,admin,true,true,false
+kravanshid,Keeyan,Ravanshid,keeyan.ravanshid@goquant.io,admin,true,true,true
+ddariotis,Denis,Dariotis,denis.dariotis@goquant.io,admin,true,true,true
+ssmith,,,susan.smith@goquant.io,admin,true,false,false
+fjones,,,frank.jones@goquant.io,admin,true,false,false
+avero,Allesandro,Vero,allesandro.vero@goquant.io,admin,true,false,false
+mgracias,Mucho,Gracias,mucho.gracias@goquant.io,admin,true,false,false
+myu,Mercy,Yu,mercy.yu@goquant.io,admin,true,false,false
+fbruno,Franco,Bruno,franco.bruno@goquant.io,admin,true,false,false
+egrun,Esma,Grun,esma.grun@goquant.io,admin,true,false,false
